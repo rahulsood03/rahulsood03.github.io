@@ -302,7 +302,11 @@ header {
 .blank {
     visibility: hidden;
 }
-
+@media (min-width: 1200) {
+    .main {
+    top: 30%;
+}
+}
 
 @media (max-width: 900px) {
   
