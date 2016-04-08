@@ -363,7 +363,7 @@ header h1 a {
   visibility: hidden;
 }
 
-@media (min-height: 900) {
+@media (min-height: 900px) {
   /* line 306, ../sass/sass6.scss */
   .main {
     top: 30%;
