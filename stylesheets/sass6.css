@@ -371,7 +371,7 @@ header h1 a {
 }
 @media (max-width: 900px) {
   /* line 313, ../sass/sass6.scss */
-  .project, .project1, .project2, .project3 {
+  .project, .project1, .project2, .project3, .project4, .project5, .project6 {
     width: 90%;
   }
 
