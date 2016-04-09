@@ -90,7 +90,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 /* line 32, ../sass/sass6.scss */
 .menu ul li a {
   font-size: 23px;
-  font-family: sans-serif;
+  font-family: 'Helvetica', sans-serif;
   display: block;
   background-color: #111;
   float: left;
@@ -159,7 +159,7 @@ textarea {
 /* line 103, ../sass/sass6.scss */
 #projects {
   text-align: center;
-  font-family: sans-serif;
+  font-family: 'Helvetica', sans-serif;
   font-size: 50px;
   background-color: #28282B;
   color: #dddddd;
@@ -174,7 +174,7 @@ textarea {
 /* line 120, ../sass/sass6.scss */
 .project-box {
   font-size: 20px;
-  font-family: sans-serif;
+  font-family: 'Lato', sans-serif;
   width: 27%;
   min-width: 10%;
   float: left;
@@ -195,7 +195,7 @@ textarea {
 #about {
   margin: 0;
   text-align: center;
-  font-family: sans-serif;
+  font-family: 'Helvetica', sans-serif;
   font-size: 20px;
   background-color: #232222;
   color: #DCD8D8;
@@ -599,9 +599,4 @@ header h1 a {
 /* line 501, ../sass/sass6.scss */
 .front {
   z-index: 2;
-}
-
-/* line 505, ../sass/sass6.scss */
-body {
-  background-image: url(IMG_6143.JPG);
 }
