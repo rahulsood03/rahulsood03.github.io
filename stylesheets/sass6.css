@@ -600,3 +600,8 @@ header h1 a {
 .front {
   z-index: 2;
 }
+
+/* line 505, ../sass/sass6.scss */
+body {
+  background-image: url(IMG_6143.JPG);
+}
