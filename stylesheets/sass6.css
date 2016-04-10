@@ -161,8 +161,8 @@ textarea {
   text-align: center;
   font-family: 'Helvetica', sans-serif;
   font-size: 50px;
-  background-color: #28282B;
-  color: #dddddd;
+  background-color: rgba(83, 165, 200, 0.34);
+  color: #111;
   padding: 80px 20px;
 }
 
@@ -183,7 +183,7 @@ textarea {
   border: 1px groove;
   border-radius: 8px;
   min-height: 200px;
-  background-color: #484848;
+  background-color: rgba(233, 223, 223, 0);
 }
 
 /* line 138, ../sass/sass6.scss */
@@ -197,8 +197,8 @@ textarea {
   text-align: center;
   font-family: 'Helvetica', sans-serif;
   font-size: 20px;
-  background-color: #232222;
-  color: #DCD8D8;
+  background-color: #ffffff;
+  color: #3366ff;
   padding: 80px;
   height: auto;
 }
@@ -207,7 +207,7 @@ textarea {
 .page-subtitle {
   font-family: 'Raleway', sans-serif;
   font-size: 20px;
-  color: #DCD8D8;
+  color: #1A8BBD;
   font-weight: 300;
   text-align: center;
   width: 100%;
@@ -219,8 +219,8 @@ footer {
   font-size: 40px;
   line-height: 100px;
   width: 100%;
-  background-color: #111;
-  font-family: "Lato", "Lucida Grande","Lucida Sans Unicode", Tahoma, Sans-Serif;
+  background-color: rgba(18, 39, 54, 0.98);
+  font-family: "Lato", "Lucida Grande","Lucida Sans Unicode", 'Tahoma', Sans-Serif;
   font-weight: 400;
 }
 /* line 171, ../sass/sass6.scss */
@@ -280,7 +280,7 @@ footer a i:hover {
 /* line 225, ../sass/sass6.scss */
 header {
   width: 100%;
-  background: #484b50;
+  background: rgba(18, 39, 54, 0.98);
   height: 80px;
   position: fixed;
   z-index: 10;
