@@ -103,10 +103,10 @@ textarea {
 #projects {
 //    margin: -10px;
     text-align: center;
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Raleway', 'Helvetica', sans-serif;
     font-size: 50px;
-    background-color: rgba(83, 165, 200, 0.34);
-    color: #111;
+    background-color: #2e3141;
+    color: #ffffff;
     padding: 80px 20px;
 //    overflow: visible;
 //    height: auto
@@ -119,7 +119,7 @@ textarea {
 
 .project-box {
     font-size: 20px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Raleway', 'Helvetica', sans-serif;
     width: 27%;
     min-width: 10%;
 //    height: auto;
@@ -127,10 +127,10 @@ textarea {
  //   flex-grow: 1;
     padding: 2%;
     margin: 10px;
-    border: 1px groove;
+  //  border: 1px groove;
     border-radius: 8px;
     min-height: 200px;
-    background-color: rgba(233, 223, 223, 0);
+    background-color: #353849;
 //    box-shadow: 1px 1px #FFF;
 
 }
@@ -138,6 +138,7 @@ textarea {
 .project-box h2 {
     font-size: 25px;
 }
+//body { background:url('../nwz.jpg') top right no-repeat !important; background-attachment:fixed; }
 
 #about {
     margin:0;
