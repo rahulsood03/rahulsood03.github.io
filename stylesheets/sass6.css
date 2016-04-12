@@ -70,11 +70,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 /* line 19, ../sass/sass6.scss */
-.page-title {
-  font-size: 20px;
-}
-
-/* line 23, ../sass/sass6.scss */
 .menu {
   width: 95%;
   text-align: right;
@@ -82,12 +77,12 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   padding-left: 40%;
   position: relative;
 }
-/* line 29, ../sass/sass6.scss */
+/* line 25, ../sass/sass6.scss */
 .menu ul {
   list-style-type: none;
   overflow: hidden;
 }
-/* line 32, ../sass/sass6.scss */
+/* line 28, ../sass/sass6.scss */
 .menu ul li a {
   font-size: 23px;
   font-family: 'Helvetica', sans-serif;
@@ -99,7 +94,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   color: whitesmoke;
 }
 
-/* line 48, ../sass/sass6.scss */
+/* line 44, ../sass/sass6.scss */
 form {
   width: 50%;
   min-width: 9rem;
@@ -107,7 +102,7 @@ form {
   height: 450px;
 }
 
-/* line 56, ../sass/sass6.scss */
+/* line 52, ../sass/sass6.scss */
 input, textarea {
   float: left;
   width: 100%;
@@ -120,35 +115,35 @@ input, textarea {
   color: #7a7a7a;
   font-size: 20px;
 }
-/* line 68, ../sass/sass6.scss */
+/* line 64, ../sass/sass6.scss */
 input[type=submit], textarea[type=submit] {
   background: #4D6DA0;
   color: #fff;
   width: auto;
   float: right;
 }
-/* line 75, ../sass/sass6.scss */
+/* line 71, ../sass/sass6.scss */
 input::placeholder, textarea::placeholder {
   color: #7a7a7a;
 }
-/* line 79, ../sass/sass6.scss */
+/* line 75, ../sass/sass6.scss */
 input.error, textarea.error {
   background: #9e1326;
   color: #fff;
 }
-/* line 82, ../sass/sass6.scss */
+/* line 78, ../sass/sass6.scss */
 input.error::placeholder, textarea.error::placeholder {
   color: black;
 }
 
-/* line 87, ../sass/sass6.scss */
+/* line 83, ../sass/sass6.scss */
 textarea {
   height: 10rem;
 }
 
-/* line 92, ../sass/sass6.scss */
+/* line 88, ../sass/sass6.scss */
 #contact {
-  font-size: 20px;
+  font-size: 25px;
   text-align: center;
   font-family: 'Helvetica', sans-serif;
   padding-top: 45px;
@@ -156,22 +151,22 @@ textarea {
   background-color: #2C3646;
 }
 
-/* line 103, ../sass/sass6.scss */
+/* line 99, ../sass/sass6.scss */
 #projects {
   text-align: center;
   font-family: 'Raleway', 'Helvetica', sans-serif;
-  font-size: 20px;
+  font-size: 25px;
   background-color: #2e3141;
   color: #ffffff;
   padding: 80px 20px;
 }
 
-/* line 116, ../sass/sass6.scss */
+/* line 112, ../sass/sass6.scss */
 .spacer {
   clear: both;
 }
 
-/* line 120, ../sass/sass6.scss */
+/* line 116, ../sass/sass6.scss */
 .project-box {
   font-size: 20px;
   font-family: 'Raleway', 'Helvetica', sans-serif;
@@ -185,9 +180,14 @@ textarea {
   background-color: #353849;
 }
 
-/* line 138, ../sass/sass6.scss */
+/* line 134, ../sass/sass6.scss */
 .project-box h2 {
   font-size: 20px;
+}
+
+/* line 139, ../sass/sass6.scss */
+.page-title {
+  font-size: 25px;
 }
 
 /* line 143, ../sass/sass6.scss */
@@ -195,7 +195,7 @@ textarea {
   margin: 0;
   text-align: center;
   font-family: 'Helvetica', sans-serif;
-  font-size: 20px;
+  font-size: 25px;
   background-color: #ffffff;
   color: #3366ff;
   padding: 80px;
@@ -258,7 +258,7 @@ footer a i:hover {
   color: #ffffff;
   text-align: center;
   font-family: sans-serif;
-  font-size: 20px;
+  font-size: 25px;
   width: 100%;
   position: absolute;
   margin-top: 360px;

@@ -16,10 +16,6 @@ $white:     #fff;
 
 
 
-.page-title{
-    font-size: 20px;
-}
-
 .menu {
     width :95%;
     text-align: right;
@@ -90,7 +86,7 @@ textarea {
 
 
 #contact {
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
     font-family: 'Helvetica', sans-serif;
     padding-top: 45px;
@@ -104,7 +100,7 @@ textarea {
 //    margin: -10px;
     text-align: center;
     font-family: 'Raleway', 'Helvetica', sans-serif;
-    font-size: 20px;
+    font-size: 25px;
     background-color: #2e3141;
     color: #ffffff;
     padding: 80px 20px;
@@ -140,11 +136,15 @@ textarea {
 }
 //body { background:url('../nwz.jpg') top right no-repeat !important; background-attachment:fixed; }
 
+.page-title{
+    font-size: 25px;
+}
+
 #about {
     margin:0;
     text-align: center;
     font-family: 'Helvetica', sans-serif;
-    font-size: 20px;
+    font-size: 25px;
     background-color: #ffffff;
     color: #3366ff;
     padding: 80px;
@@ -201,7 +201,7 @@ footer {
     color: #ffffff;
     text-align: center;
     font-family: sans-serif;
-    font-size: 20px;
+    font-size: 25px;
     width: 100%;
     position: absolute;
     margin-top: 360px;
