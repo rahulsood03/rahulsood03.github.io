@@ -198,7 +198,7 @@ textarea {
   font-family: 'Helvetica', sans-serif;
   font-size: 25px;
   background-color: #ffffff;
-  color: #3366ff;
+  color: #eee;
   padding: 117px;
   height: auto;
   background: linear-gradient(185deg, #2e3141 18%, #4c5c96 0%);
@@ -208,7 +208,7 @@ textarea {
 .page-subtitle {
   font-family: 'Raleway', sans-serif;
   font-size: 20px;
-  color: #0A78DE;
+  color: #eee;
   font-weight: 300;
   text-align: center;
   width: 100%;
