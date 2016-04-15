@@ -15,7 +15,7 @@
 
      function flipBurger () {
         if ($(window).width() < 880) {
-            var theMenu = document.getElementById('myMenu');// you had not defined Id for your menu, it had only class
+            var theMenu = document.getElementById('myMenu');
             var existingDisplayStyle = theMenu.style.display;
             console.log("flipBurger(): existingDisplayStyle is "+existingDisplayStyle);
             if (existingDisplayStyle == ""||existingDisplayStyle == 'none')
