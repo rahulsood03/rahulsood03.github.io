@@ -85,7 +85,8 @@ textarea {
 }
 
 #social {
-    background: linear-gradient(182deg,#3F4E85 27%, #2e3141 0%);
+    background: linear-gradient(182deg,#3F4E85 51px, #2e3141 0%);
+    padding-top: 40px;
 }
 
 #contact {
@@ -95,7 +96,7 @@ textarea {
     padding-top: 117px;
     color: #dddddd;
     background-color:#2C3646;
-    background: linear-gradient(-185deg,#4c5c96 20%, #3f4e85 0%);
+    background: linear-gradient(-185deg,#4c5c96 128px, #3f4e85 0%);
   
 }
 
@@ -157,7 +158,7 @@ textarea {
     color: #eee;
     padding: 117px;
     height:auto;
-    background: linear-gradient(185deg,#2E3141 18%, #4c5c96 0%);
+    background: linear-gradient(185deg,#2E3141 127px, #4c5c96 0%);
 }
 
 .page-subtitle {
@@ -326,6 +327,7 @@ header {
         width: 90%;
 //        height: auto;
     }
+    
     .main{
         width: 100%;
         font-size: 20px;
