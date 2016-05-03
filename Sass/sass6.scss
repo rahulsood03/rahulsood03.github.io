@@ -3,9 +3,9 @@
 $green: #84AD47;
 $red: #AD4747;
 $blue: #4784AD;
-$gray:      #484b50;
-$red:		#9e1326;
-$white:     #fff;
+$gray:  #484b50;
+$red:	#9e1326;
+$white: #fff;
 
 
 *{
@@ -98,49 +98,49 @@ form {
   
 }
 
-#projects {
-//    margin: -10px;
-    text-align: center;
-    font-family: 'Raleway', 'Helvetica', sans-serif;
-    font-size: 25px;
-    background-color: #f76160;
-    color: #ffffff;
-    padding: 80px 20px;
-//    overflow: visible;
-//    height: auto
-//    height: 250px;
-}
+//#projects {
+////    margin: -10px;
+//    text-align: center;
+//    font-family: 'Raleway', 'Helvetica', sans-serif;
+//    font-size: 25px;
+//    background-color: #f76160;
+//    color: #ffffff;
+//    padding: 80px 20px;
+////    overflow: visible;
+////    height: auto
+////    height: 250px;
+//}
 
 .spacer {
     clear: both;
 }
 
-.Pone {
-    color: #eee;
-}
-
-
-.project-box {
-    font-size: 20px;
-    font-family: 'Raleway', 'Helvetica', sans-serif;
-    width: 27%;
-    min-width: 10%;
-//    height: auto;
-    float: left;
- //   flex-grow: 1;
-    padding: 2%;
-    margin: 10px;
-  //  border: 1px groove;
-    border-radius: 8px;
-    min-height: 200px;
-    background-color: rgba(53, 56, 73, 0.36);
-//    box-shadow: 1px 1px #FFF;
-
-}
-
-.project-box h2 {
-    font-size: 20px;
-}
+//.Pone {
+//    color: #eee;
+//}
+//
+//
+//.project-box {
+//    font-size: 20px;
+//    font-family: 'Raleway', 'Helvetica', sans-serif;
+//    width: 27%;
+//    min-width: 10%;
+////    height: auto;
+//    float: left;
+// //   flex-grow: 1;
+//    padding: 2%;
+//    margin: 10px;
+//  //  border: 1px groove;
+//    border-radius: 8px;
+//    min-height: 200px;
+//    background-color: rgba(53, 56, 73, 0.36);
+////    box-shadow: 1px 1px #FFF;
+//
+//}
+//
+//.project-box h2 {
+//    font-size: 20px;
+//}
 //body { background:url('../nwz.jpg') top right no-repeat !important; background-attachment:fixed; }
 
 .page-title{
@@ -301,7 +301,7 @@ header {
   float:right;
   display:inline-block;
   text-align:right;
-  margin-top:2px; 
+  margin-top: -21px; 
   font-family: 'Raleway', sans-serif;
   font-weight:400;
   text-transform:uppercase;
@@ -366,7 +366,7 @@ header {
         width: 100%;
         font-size: 20px;
         margin-top: -200px;
-        visibility: hidden;
+        visibility:hidden;
     }
     .subtxt{
         width: 100%;
