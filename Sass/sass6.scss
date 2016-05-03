@@ -235,9 +235,9 @@ footer a {
     top: 40%;
     margin-top: -55px;
     width: 100%;
-    font-size: 90px;
+    font-size: 100px;
     font-family: 'Stalemate', cursive;
-    color: whitesmoke;
+    color: #3e90ca;
     text-align: center;
     text-shadow: 3px 3px 2px black;
 }
@@ -392,7 +392,7 @@ header {
         line-height: 50px;
     }
     .up {
-        font-size: 60px;
+        font-size: 40px;
     }
   .menu {
      
@@ -465,7 +465,7 @@ header {
     z-index:10;
     height: 60px;
     display: block;
-    background: $red;
+    background: #29836f;
     @include transition(all 0.3s ease-in-out);
     list-style: none;
     position: absolute;
@@ -503,7 +503,7 @@ header {
       }
     }
     &:hover {
-      background: darken($red, 9%);
+      background: darken(#0ec97d, 9%);
       i {
         
         &:before {

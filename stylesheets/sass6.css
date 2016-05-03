@@ -257,9 +257,9 @@ footer a {
   top: 40%;
   margin-top: -55px;
   width: 100%;
-  font-size: 90px;
+  font-size: 100px;
   font-family: 'Stalemate', cursive;
-  color: whitesmoke;
+  color: #3e90ca;
   text-align: center;
   text-shadow: 3px 3px 2px black;
 }
@@ -443,7 +443,7 @@ header h1 a {
 
   /* line 394, ../sass/sass6.scss */
   .up {
-    font-size: 60px;
+    font-size: 40px;
   }
 
   /* line 397, ../sass/sass6.scss */
@@ -520,7 +520,7 @@ header h1 a {
     z-index: 10;
     height: 60px;
     display: block;
-    background: #9e1326;
+    background: #29836f;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     -webkit-transition: all 0.3s ease-in-out;
@@ -580,7 +580,7 @@ header h1 a {
   }
   /* line 505, ../sass/sass6.scss */
   .burger:hover {
-    background: #750e1c;
+    background: #0b9e62;
   }
   /* line 509, ../sass/sass6.scss */
   .burger:hover i:before {
