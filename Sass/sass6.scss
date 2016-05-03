@@ -351,6 +351,9 @@ header {
         padding: 0 !important;
         width: 100%;
     }
+    .up {
+        font-size: 50px;
+    }
     
     .section-img {
         width: 90%;
@@ -391,9 +394,7 @@ header {
     footer {
         line-height: 50px;
     }
-    .up {
-        font-size: 40px;
-    }
+    
   .menu {
      
      text-align:right;
@@ -631,9 +632,9 @@ h2 {
 .up {
     position: absolute;
     top: 40%;
-    margin-top: -115px;
+    margin-top: -160px;
     width: 100%;
-    font-size: 110px;
+    font-size: 95px;
     font-family: 'Stalemate', cursive;
     color: #66A7D5;
     text-align: center;
