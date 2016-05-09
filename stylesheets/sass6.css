@@ -685,8 +685,8 @@ h2 {
 /* line 629, ../sass/sass6.scss */
 .up {
   position: absolute;
-  top: 40%;
-  margin-top: 30px;
+  top: 0%;
+  margin-top: 150px;
   width: 100%;
   font-size: 130px;
   font-family: 'Stalemate', cursive;
@@ -724,10 +724,15 @@ section p {
   font-size: 20px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 600px) {
   /* line 665, ../sass/sass6.scss */
   .up {
-    margin-top: 100px;
+    margin-top: 70px;
+  }
+}
+@media (max-width: 800px) {
+  /* line 671, ../sass/sass6.scss */
+  .up {
     font-size: 60px;
     text-shadow: 2px 0px 1px black;
   }
