@@ -1,2 +1,2 @@
 # rahulsood03
-Hardik Patel
+Designed by: Rahul Sood
